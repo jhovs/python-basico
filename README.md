@@ -1,2 +1,2 @@
 # python-basico
-Python Básico - Repaos desde cero
+Curso Básico de Python - 27 Jun 2022
